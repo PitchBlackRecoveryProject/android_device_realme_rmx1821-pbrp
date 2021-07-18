@@ -145,7 +145,6 @@ ENABLE_CPUSETS := true
 ENABLE_SCHEDBOOST := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_SKIP_COMPATIBILITY_CHECK := true
-TW_DELAY_TOUCH_INIT_MS := 2000
 TW_INCLUDE_LOGICAL := oppo_product oppo_engineering common_preload
 
 # Hack: prevent anti rollback
